@@ -22,3 +22,6 @@ This project is a Streamlit-based application that segments customers using a K-
 2. Navigate to the project directory
   ```bash
  cd customer-segmentation
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
