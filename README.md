@@ -20,8 +20,9 @@ This project is a Streamlit-based application that segments customers using a K-
    git clone https://github.com/your-username/customer-segmentation.git
 
 2. Navigate to the project directory
-  ```bash
- cd customer-segmentation
+   ```bash
+    cd customer-segmentation
+
 3. Install dependencies:
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
