@@ -18,3 +18,6 @@ This project is a Streamlit-based application that segments customers using a K-
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/customer-segmentation.git
+
+2. Navigate to the project directory
+   cd customer-segmentation
