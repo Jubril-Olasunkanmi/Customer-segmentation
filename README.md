@@ -20,4 +20,5 @@ This project is a Streamlit-based application that segments customers using a K-
    git clone https://github.com/your-username/customer-segmentation.git
 
 2. Navigate to the project directory
-   cd customer-segmentation
+  ```bash
+ cd customer-segmentation
