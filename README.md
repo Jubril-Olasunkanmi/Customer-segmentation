@@ -36,6 +36,6 @@ streamlit run app.py
 
 File Structure
 
-app.py: Main application logic.
-model/: Contains pre-trained models (kmeans.pkl).
-requirements.txt: Lists required Python packages.
+- app.py: Main application logic.
+- model/: Contains pre-trained models (kmeans.pkl).
+- requirements.txt: Lists required Python packages.
